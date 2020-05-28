@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiransiluveru/webp-bulk"
+  },
   "author": "Kiran Siluveru",
   "license": "ISC",
   "dependencies": {
@@ -25,5 +29,9 @@
     "webp-bulk-image",
     "webp-bulk",
     "images webp bulk"
-  ]
+  ],
+   "bugs": {
+    "url": "https://github.com/kiransiluveru/webp-bulk/issues"
+  },
+  "homepage": "https://github.com/kiransiluveru/webp-bulk#readme"
 }
