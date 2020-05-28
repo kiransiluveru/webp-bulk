@@ -1,0 +1,29 @@
+{
+  "name": "webp-bulk",
+  "version": "1.0.0",
+  "description": "Convert multiple images at a time to webp format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Siluveru",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.3.0",
+    "webp-converter": "^2.2.3",
+    "yargs": "^15.3.1"
+  },
+  "bin": {
+    "webp-bulk": "./index.js"
+  },
+  "keyword": [
+    "webp",
+    "webp-convert",
+    "webp images",
+    "convert multiple webp images",
+    "bulk webp images",
+    "webp-bulk-image",
+    "webp-bulk",
+    "images webp bulk"
+  ]
+}
